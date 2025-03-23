@@ -1,6 +1,6 @@
 #include <stdio.h>  // Standard I/O library
 #include "Encode_function_header_file.h" // Header file for encoding functions
-#include "types.h"  // Header file for custom types
+#include "Return_types.h"  // Include types header file
 #include "Magic_string.h" // Header file for common utilities
 #include <string.h> // String manipulation functions
 
