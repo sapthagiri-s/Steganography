@@ -1,7 +1,7 @@
 #include <stdio.h>  // Include standard input/output library
-#include "decode.h" // Include decode header file
+#include "Decode_function_header_file.h" // Include decode header file
 #include "types.h"  // Include types header file
-#include "common.h" // Include common header file
+#include "Magic_string.h" // Include Magic_string header file
 #include <string.h> // Include string manipulation library
 
 /* Function Definitions */
