@@ -1,7 +1,7 @@
 #include <stdio.h>  // Include standard input-output header
-#include "encode.h" // Include header file for encoding functions
-#include "decode.h" // Include header file for decoding functions
-#include "types.h"  // Include header file for custom types
+#include "Encode_function_header_file.h" // Include header file for encoding functions
+#include "Decode_function_header_file.h" // Include header file for decoding functions
+#include "Return_types.h"  // Include header file for custom types
 #include <string.h> // Include string manipulation functions
 
 // Define color codes for terminal output
