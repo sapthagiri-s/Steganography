@@ -1,7 +1,7 @@
 #ifndef ENCODE_H // Include guard to prevent multiple inclusions of this header file
 #define ENCODE_H
 
-#include "types.h" // Include user-defined types from types.h
+#include "Return_types.h" // Include user-defined types from types.h
 
 /* 
  * Structure to store information required for
